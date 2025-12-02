@@ -1,0 +1,30 @@
+# Binaries
+
+Binaries/
+Plugins/*/Binaries/
+
+# Compiled build data
+
+DerivedDataCache/
+Intermediate/
+Saved/
+
+*.opensdf
+*.sdf
+*.suo
+*.xcodeproj
+*.xcworkspace
+.vs/
+.vscode/
+
+
+Content/Collections/
+Content/Developers/
+*.tmp
+*.bak
+.idea/
+Saved/Autosaves/
+*.log
+
+Config/WindowsEditor/
+Config/Windows/
